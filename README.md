@@ -1,3 +1,15 @@
+# Ranitidine Shortages
+
+In October 2019 the Department of Health and Social Care issued a [Supply Disruption Alert](https://www.cas.mhra.gov.uk/ViewandAcknowledgment/ViewAttachment.aspx?Attachment_id=103298) advising that _all oral formulations of ranitidine are anticipated to be out of stock, with no date for resupply until further notice_. They advised that there are two possible options for managing patient's conditions 
+
+1. Review to establish if ongoing treatment is still required. 
+2. If ongoing treatment is still required, then consider switching to an alternative treatment (see
+table below).
+
+We therefore set out to investigate which option prescribers and patients chose.
+
+
+
 # EBM DataLab's skeleton notebook environment
 
 ![status](https://github.com/ebmdatalab/custom-docker/workflows/Notebook%20checks/badge.svg)
